@@ -12,7 +12,7 @@
 ｱｲｺﾝ[Edit]
 ｱｲｺﾝ[delete]
 .gitignor	git管理外codeメモ等記憶
----------------------------------------
+ --------------------------------------
 gist		git管理外
 Github特集記事 Web+DBPress Vol.69 2012.7.25 P18-52、P27~ Githubを実際に使ってみる(Web上利用法詳細有り)
 (注) リポジトリ新規生成は、login後右上ﾂｰﾙﾊｰﾞの "＋▼" Creat A NewRepositry ｸﾘｯｸ → "Public/Privte(無料はpublicのみ)" .gitignor/README.md/ をｸﾘｯｸして何れか1つ生成すれば"Repositry／＋"でcode等追加できる。
