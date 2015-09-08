@@ -1,5 +1,6 @@
 150909 edit編集時、3行以上コピペ繰り返し、evernoteの区切り線(htmlの<hr>相当)コピペ、等でIE11クラッシュ？
-
+       行頭からの下線-------------- で巨大文字、何かの意味あいか？
+# ---------------------------------------------------------------------------------
 150626 -Github-Management-System Primary operation method, and System features.
 
         brunch:master
