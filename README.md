@@ -1,3 +1,5 @@
+151203 cun1tian2 トップページには Popular repositories のみ表示、Repositoriesクリック又は要リポジトリ検索
+
 150914 wmac [Contributions/Repositorie/Publicactivity]ｸﾘｯｸ github/allを指定ｱｸｾｽ、PopularRepositoryには不表示？？。
        hp記事 dropbox連携でgithubのﾌﾟﾗｰﾍﾞｰﾄなﾘﾎﾟｼﾞﾄﾘ利用。
 150914 ﾘﾎﾟｼﾞﾄﾘ名変更 https://github.com/usrname/ ﾘﾎﾟｼﾞﾄﾘ選択 右上のAdminｸﾘｯｸ ﾘﾎﾟｼﾞﾄﾘ名の変更 [新しい名前]「Rename] できない？？
