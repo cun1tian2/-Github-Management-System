@@ -1,3 +1,20 @@
+--------------------------
+160816 repositoriesの相違調べ
+  ------
+overview Popular repositories： x5  -Github-Management-System  dbu  hp-htm  imgdspl  tools  (wmac notDispl)
+  ------
+repositories： x6							comt/brnc/rels/cntrb
+hp-htm				27Apr 2016	html	0 0 - - - -    116 1 0 1	md md htmX6 txt			Unw1 0 0
+wmac				9 Dec 2015	perl	0 0 - - - - 	38 1 0 1	md cgi cgi txt			Unw1 0 0
+-Github-Management-System	3 Dec 2015	-	1 0 - - - -	25 1 0 1	gitign md
+tools				3 Dec 2015	-	0 0 - - - - 	11 1 0 1	gitign FilZilPtbfileCnv md
+dbu				2 Sep 2015	perl	0 0 - - - - 	11 1 0 1	md cgi				Unw1 0 0
+imgdspl				2 Aug 2015	perl	0 0 - - - - 	14 1 0 1	gitign md cgi pl
+  ------
+create a new repsitory方法
+owner:cun1tian2 repsitoryName:"" description:"" ◎public/private  [ﾚ]Initialize this repository with a README 
+Add.gitignore none/"..."  Add alicense none/"..."   → [Create repository]
+--------------------------
 151203 cun1tian2 トップページには Popular repositories のみ表示、Repositoriesクリック又は要リポジトリ検索
 
 150914 wmac [Contributions/Repositorie/Publicactivity]ｸﾘｯｸ github/allを指定ｱｸｾｽ、PopularRepositoryには不表示？？。
