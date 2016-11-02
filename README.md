@@ -1,5 +1,5 @@
 --------------------------
-160816 repositoriesの相違調べ 結果不詳
+160816 repositoriesの相違調べ 結果不詳  161102 最近の新設Repositoryはpopularには非表示。
   ------
 overview Popular repositories： x5  -Github-Management-System  dbu  hp-htm  imgdspl  tools  (wmac notDispl)
   ------
